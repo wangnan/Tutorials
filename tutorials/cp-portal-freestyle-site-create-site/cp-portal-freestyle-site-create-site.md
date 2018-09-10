@@ -26,7 +26,7 @@ You can build an intuitive and user-friendly portal freestyle sites by adding pa
 ---
 
 [ACCORDION-BEGIN [Step 1: ](Access the Portal Admin Space)]
-  1. From SAP Cloud Platform, click **Services** from the left panel to open the services available for your subaccount.
+  1. From SAP Cloud Platform (please follow [this tutorial](https://www.sap.com/developer/tutorials/cp-portal-getting-started.html) to open the cloud platform), click **Services** from the left panel to open the services available for your subaccount.
   2. From the **Categories** dropdown list, select **User Experience** to see UX-related services.
   3. Click the **Portal** tile to open the service overview page.
   4. In the **Portal – Overview** page, click **Go to Service** to open the Portal.
