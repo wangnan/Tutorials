@@ -595,7 +595,7 @@ onPressScoreSimilarity: function(oControlEvent) {
         oController.getView().getModel("demo").setProperty("/resultVisible-similarityscoring", true);
     };
     var processServiceCall = function(blob) {
-        saveAs(blob, "score.zip");
+        //saveAs(blob, "score.zip");
         var formData = new window.FormData();
         formData.fd.append("files", blob, "score.zip");
         formData.fd.append("options", options);
