@@ -296,8 +296,8 @@ Then click on the ![Save Button](00-save.png) button (or press CTRL+S).
 
 ```JSON
 {
-  "url_featureextraction" : "/ml-dest/featureextraction/inference_sync",
-  "url_similarityscoring" : "/ml-dest/similarityscoring/inference_sync",
+  "url_featureextraction" : "/ml-dest/imagefeatureextraction/feature-extraction",
+  "url_similarityscoring" : "/ml-dest/similarityscoring/similarity-scoring",
   "APIKey":"<<<<< COPY YOUR API KEY >>>>>"
 }
 ```
