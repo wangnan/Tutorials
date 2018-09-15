@@ -523,7 +523,9 @@ onPressExtractFeatures: function(oControlEvent) {
 > /* global JSZip:true */
 > ```
 
-Please replace first 7 lines of Component.js file as following
+Upload [jszip.min.js](jszip.min.js) and [FileSaver.min.js](FileSaver.min.js) to webapp -> libs folder. If libs folder is not exist, please create one.
+
+Replace first 7 lines of Component.js file as following
 ```JavaScript
 sap.ui.define([
 	"sap/ui/core/UIComponent",
