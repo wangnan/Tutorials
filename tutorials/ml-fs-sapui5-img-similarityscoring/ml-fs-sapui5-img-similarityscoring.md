@@ -729,8 +729,7 @@ Please make sure your image has less than 1M pixels.
 
 Run the application with the following images:
 
-- `Bucephala`: <https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bucephala-albeola-010.jpg/1200px-Bucephala-albeola-010.jpg>
-- `Mallard` : <https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mallard2.jpg/1200px-Mallard2.jpg>
+[apple1.jpg](apple1.jpg),  [apple2.jpg](apple2.jpg),  [apple3.jpg](apple3.jpg),  [apple4.jpg](apple4.jpg),  
 
 Provide an answer to the question below then click on **Validate**.
 
